@@ -22,5 +22,5 @@ helm search repo mysql
 ```
 ### Searching all version of chart in repo
 ```
-helm search repo mysql --version
+helm search repo mysql --versions
 ```
