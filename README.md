@@ -18,9 +18,9 @@ helm repo update
 ```
 ### Searching a chart in repo
 ```
-helm repo search mysql
+helm search repo mysql
 ```
 ### Searching all version of chart in repo
 ```
-helm repo search mysql --version
+helm search repo mysql --version
 ```
