@@ -1,2 +1,2 @@
-# Helm-cheatsheat
+# Helm-cheatsheet
 My Helm cheat sheet
