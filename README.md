@@ -16,11 +16,11 @@ helm repo remove bitnami
 ```
 helm repo update
 ```
-### Searching a package in repo
+### Searching a chart in repo
 ```
 helm repo search mysql
 ```
-### Searching all version of package in repo
+### Searching all version of chart in repo
 ```
 helm repo search mysql --version
 ```
